@@ -1,8 +1,10 @@
 # Linux Tweet App
 
-This is very simple NGINX website that allows a user to send a tweet. 
+![Build-Push-And-Test Workflow](https://github.com/elft3r/autobuild/actions/workflows/build-push-and-deploy.yml/badge.svg)
 
-It's mostly used as a sample application for Docker 101 workshops. 
+This is very simple NGINX website that allows a user to send a tweet.
+
+It's mostly used as a sample application for Docker 101 workshops.
 
 To use it:
 
